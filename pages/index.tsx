@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          I'm writing a wonderful self introduction here. Wow! Such writing!
+          I&apos;m writing a wonderful self introduction here. Wow! Such writing!
           Many cares! Give me a job!
         </p>
         <p>
